@@ -4,4 +4,4 @@ Graphical assets for Bow
 ## Fonts
 
 
-* **Montserrat:** [https://fonts.google.com/specimen/Montserrat]()
+* **Montserrat:** [https://fonts.google.com/specimen/Montserrat](https://fonts.google.com/specimen/Montserrat)
