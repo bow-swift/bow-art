@@ -1,1 +1,61 @@
-<svg id="nef-plagyrounds-badge" data-name="nef-plagyrounds-badge" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1960 280" style="width: 140px; height: 20px" width="140" height="20"><defs><style>.cls-1{fill:#5e0de6;}.cls-2{fill:#2a0a5c;}.cls-14,.cls-3{fill:none;stroke-miterlimit:10;}.cls-3{stroke:#000;}.cls-4{font-size:170.84px;font-family:SFCompactDisplay-Regular, SF Compact Display;}.cls-15,.cls-4{fill:#fff;}.cls-5{letter-spacing:-0.06em;}.cls-6{letter-spacing:0.04em;}.cls-7{letter-spacing:0em;}.cls-8{letter-spacing:0em;}.cls-9{letter-spacing:0.01em;}.cls-10{letter-spacing:0em;}.cls-11,.cls-15{font-family:SFCompactDisplay-Medium, SF Compact Display;font-weight:500;}.cls-12,.cls-13{font-family:SFCompactDisplay-Semibold, SF Compact Display;font-weight:600;}.cls-13{letter-spacing:0em;}.cls-14{stroke:#fff;stroke-width:7px;}.cls-15{font-size:161.49px;}</style></defs><path class="cls-1" d="M86,1H1909a50,50,0,0,1,50,50V231a50,50,0,0,1-50,50H86a65,65,0,0,1-65-65V66A65,65,0,0,1,86,1Z"/><path class="cls-2" d="M50,0H655a0,0,0,0,1,0,0V282a0,0,0,0,1,0,0H50A50,50,0,0,1,0,232V50A50,50,0,0,1,50,0Z"/><path class="cls-3" d="M307-14.3" transform="translate(-1 1)"/><text class="cls-4" transform="translate(730.3 199.8) scale(1.05 1)"><tspan class="cls-5">T</tspan><tspan class="cls-6" x="77.6" y="0">r</tspan><tspan x="143" y="0">y </tspan><tspan class="cls-7" x="257.2" y="0">i</tspan><tspan class="cls-8" x="298.7" y="0">t </tspan><tspan class="cls-9" x="390.5" y="0">w</tspan><tspan class="cls-10" x="514.7" y="0">i</tspan><tspan class="cls-9" x="556.2" y="0">t</tspan><tspan x="615.4" y="0">h</tspan><tspan class="cls-11" x="711.6" y="0"> </tspan><tspan class="cls-12" x="745.4" y="0">i</tspan><tspan class="cls-13" x="790.9" y="0">P</tspan><tspan class="cls-12" x="890.4" y="0">ad</tspan></text><polygon class="cls-14" points="191.2 46.7 265.5 176.2 191.2 219.1 115.9 176.2 191.2 46.7"/><polygon class="cls-14" points="191.7 143.4 266 187.2 191.7 230.1 117.4 186.2 191.7 143.4"/><polygon class="cls-14" points="191.7 154.8 266 197.7 190.7 241.5 117.4 197.7 191.7 154.8"/><text class="cls-15" transform="translate(319.6 200) scale(1.05 1)">nef</text></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="nef_playgrounds_badge" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 1960 280" style="enable-background:new 0 0 1960 280;" height="20" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#5E0DE6;}
+	.st1{fill:#2A0A5C;}
+	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'SFCompactDisplay-Regular';}
+	.st5{font-size:170.8424px;}
+	.st6{fill:none;stroke:#FFFFFF;stroke-width:7;stroke-miterlimit:10;}
+	.st7{font-family:'SFCompactDisplay-Medium';}
+	.st8{font-size:161.4935px;}
+</style>
+<font horiz-adv-x="2048">
+<!-- San Francisco is a trademark of Apple Inc. -->
+<!-- Copyright: Copyright 2020 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="SFCompactDisplay-Regular" units-per-em="2048" underline-position="-75" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="2048" d="M100,1664l1848,0l0,286l-1848,0M100,1233l1848,0l0,285l-1848,0M100,801l1848,0l0,286l-1848,0M100,369l1848,0l0,286l-1848,0M100,-62l1848,0l0,285l-1848,0M100,-494l1848,0l0,286l-1848,0z"/>
+<glyph unicode="P" horiz-adv-x="1149" d="M164,1365l0,-1365l174,0l0,516l323,0C921,516 1095,684 1095,940C1095,1194 921,1365 661,1365M338,1210l310,0C818,1210 916,1111 916,940C916,716 779,670 545,670l-207,0z"/>
+<glyph unicode="T" horiz-adv-x="1043" d="M608,0l0,1209l415,0l0,156l-1003,0l0,-156l415,0l0,-1209z"/>
+<glyph unicode="a" horiz-adv-x="1054" d="M740,131l5,0l0,-131l165,0l0,725C910,946 747,1068 523,1068C269,1068 144,934 133,750l162,0C305,855 382,924 517,924C659,924 739,848 739,710l0,-107l-277,0C221,602 93,486 93,302C93,109 233,-17 436,-17C591,-17 687,46 740,131M482,126C372,126 269,184 269,308C269,403 331,471 475,471l264,0l0,-122C739,218 629,126 482,126z"/>
+<glyph unicode="d" horiz-adv-x="1166" d="M531,1067C266,1067 111,859 111,573l0,-95C111,185 257,-16 531,-16C672,-16 782,50 841,158l4,0l0,-158l165,0l0,1437l-172,0l0,-532l-5,0C780,998 670,1067 531,1067M555,917C732,917 841,779 841,567l0,-84C841,260 734,134 558,134C399,134 284,250 284,484l0,83C284,801 399,917 555,917z"/>
+<glyph unicode="h" horiz-adv-x="1153" d="M156,0l172,0l0,640C328,784 406,912 587,912C741,912 844,822 844,645l0,-645l172,0l0,674C1016,930 856,1068 639,1068C469,1068 372,979 333,912l-5,0l0,525l-172,0z"/>
+<glyph unicode="i" horiz-adv-x="499" d="M139,1304C139,1243 188,1195 249,1195C310,1195 360,1243 360,1304C360,1366 310,1414 249,1414C188,1414 139,1366 139,1304M163,0l172,0l0,1051l-172,0z"/>
+<glyph unicode="r" horiz-adv-x="693" d="M153,0l173,0l0,651C326,793 384,909 570,909C602,909 636,908 654,905l0,157C633,1065 611,1067 589,1067C440,1067 361,985 330,922l-5,0l0,129l-172,0z"/>
+<glyph unicode=" " horiz-adv-x="410"/>
+<glyph unicode="t" horiz-adv-x="690" d="M219,1051l-142,0l0,-144l141,0l0,-613C218,87 269,-9 518,-9C554,-9 590,-5 605,-2l0,138C591,134 578,134 561,134C432,134 390,166 390,292l0,615l208,0l0,144l-208,0l0,262l-171,0z"/>
+<glyph unicode="w" horiz-adv-x="1470" d="M1430,1051l-174,0l-193,-831l-8,0l-238,831l-164,0l-237,-831l-8,0l-193,831l-174,0l274,-1051l179,0l239,810l4,0l240,-810l178,0z"/>
+<glyph unicode="y" horiz-adv-x="959" d="M954,1051l-183,0l-285,-860l-6,0l-284,860l-191,0l387,-1066l-16,-57C346,-183 289,-224 169,-224C143,-224 110,-222 93,-220l0,-140C122,-366 158,-369 190,-369C367,-369 470,-301 552,-78l27,73C580,-4 944,1017 954,1051z"/>
+</font>
+
+	<font horiz-adv-x="2048">
+<!-- San Francisco is a trademark of Apple Inc. -->
+<!-- Copyright: Copyright 2020 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="SFCompactDisplay-Medium" units-per-em="2048" underline-position="-75" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="2048" d="M100,1698l1848,0l0,252l-1848,0M100,1260l1848,0l0,252l-1848,0M100,821l1848,0l0,252l-1848,0M100,383l1848,0l0,252l-1848,0M100,-56l1848,0l0,252l-1848,0M100,-494l1848,0l0,252l-1848,0z"/>
+<glyph unicode="e" horiz-adv-x="1099" d="M561,-18C822,-18 960,133 992,304l-211,0C754,213 677,157 564,157C413,157 317,275 317,453l0,25l687,0l0,101C1004,877 834,1075 552,1075C274,1075 98,884 98,589l0,-107C98,169 278,-18 561,-18M317,633l0,2C317,785 410,903 553,903C694,903 787,785 787,635l0,-2z"/>
+<glyph unicode="f" horiz-adv-x="714" d="M216,0l220,0l0,879l203,0l0,178l-206,0l0,87C433,1256 486,1290 592,1290C621,1290 637,1288 652,1286l0,167C633,1455 603,1459 554,1459C322,1459 216,1370 216,1162l0,-105l-148,0l0,-178l148,0z"/>
+<glyph unicode="n" horiz-adv-x="1172" d="M141,0l221,0l0,630C362,769 438,880 594,880C726,880 824,804 824,634l0,-634l221,0l0,679C1045,937 890,1073 674,1073C500,1073 403,979 367,909l-8,0l0,148l-218,0z"/>
+</font>
+
+	<path id="XMLID_1_" class="st0" d="M1910,280H87c-35.9,0-65-29.1-65-65V65C22,29.1,51.1,0,87,0h1823c27.61,0,50,22.39,50,50v180
+	C1960,257.61,1937.61,280,1910,280z"/>
+<path class="st1" d="M656,281H51c-27.61,0-50-22.39-50-50V49C1,21.39,23.39-1,51-1h605V281z"/>
+<g>
+	<g>
+		<path class="st2" d="M307-14.33"/>
+	</g>
+</g>
+<text transform="matrix(1.0462 0 0 1 731.2656 198.7998)" class="st3 st4 st5">Try it with iPad</text>
+<g>
+	<g>
+		<polygon class="st6" points="192.21,45.66 266.52,175.24 192.21,218.11 116.94,175.24 		"/>
+		<polygon class="st6" points="192.68,142.37 267,186.19 192.68,229.07 118.37,185.24 		"/>
+		<polygon class="st6" points="192.68,153.8 267,196.67 191.73,240.5 118.37,196.67 		"/>
+	</g>
+</g>
+<text transform="matrix(1.0462 0 0 1 320.5728 199.04)" class="st3 st7 st8">nef</text>
+</svg>
